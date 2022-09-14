@@ -10,10 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0865d947b30eb574b859d15fa2e18ddb, type: 3}
-  m_Name: Intro
+  m_Name: CS - Sauce
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  storyText: "The sauce is all of the flavor in pasta dishes, but with as many choices
+    as there are, how do you choose the best one?\n\n1. Classic Red\n\n2. Alfredo
+    \n\n3. Pesto"
+  nextStates: []

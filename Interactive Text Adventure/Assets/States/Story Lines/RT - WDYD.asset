@@ -10,10 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0865d947b30eb574b859d15fa2e18ddb, type: 3}
-  m_Name: Intro
+  m_Name: RT - WDYD
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  storyText: 'You want to try to impress him with something fancy, but you''ve never
+    made anything like this so what do you do first?
+
+
+    1. Turn up the heat
+
+
+    2.
+    Mix thoroughly
+
+
+    3. Add the sugar'
+  nextStates: []

@@ -10,10 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0865d947b30eb574b859d15fa2e18ddb, type: 3}
-  m_Name: Intro
+  m_Name: Choose Dish
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  storyText: 'You start to look over all of the possible things that you can make
+    and come up with three different ones. A classic, something fancy, or your favorite.
+
+
+    1.
+    Classic Spaghetti
+
+
+    2. Ratatouille
+
+
+    3. Grilled Cheese'
+  nextStates: []
