@@ -12,5 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0865d947b30eb574b859d15fa2e18ddb, type: 3}
   m_Name: GC - Base Ending
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: '"Hm, its still missing something"
+
+    The critic is surprised that
+    a simple grilled cheese could be as good as it is, but it''s just a regular grilled
+    cheese, nothing special
+
+
+    1. Try again?
+
+
+    2. Quit being a chef '
+  nextStates:
+  - {fileID: 11400000, guid: 5cd9e445cfb50e2489a8af3162128965, type: 2}
+  - {fileID: 0}

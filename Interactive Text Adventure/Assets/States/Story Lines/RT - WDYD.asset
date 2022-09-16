@@ -24,4 +24,7 @@ MonoBehaviour:
 
 
     3. Add the sugar'
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 2b1a0877bbd91364ea3ee184c40a43c9, type: 2}
+  - {fileID: 11400000, guid: 2b1a0877bbd91364ea3ee184c40a43c9, type: 2}
+  - {fileID: 11400000, guid: 2b1a0877bbd91364ea3ee184c40a43c9, type: 2}

@@ -15,4 +15,7 @@ MonoBehaviour:
   storyText: "The sauce is all of the flavor in pasta dishes, but with as many choices
     as there are, how do you choose the best one?\n\n1. Classic Red\n\n2. Alfredo
     \n\n3. Pesto"
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 8419fcadc83b9b248a884876820d7ef4, type: 2}
+  - {fileID: 11400000, guid: 8419fcadc83b9b248a884876820d7ef4, type: 2}
+  - {fileID: 11400000, guid: 8419fcadc83b9b248a884876820d7ef4, type: 2}

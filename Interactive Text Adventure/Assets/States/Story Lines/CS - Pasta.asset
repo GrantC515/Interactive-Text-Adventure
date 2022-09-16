@@ -24,4 +24,7 @@ MonoBehaviour:
 
 
     3. Bowties'
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 6c5ef9cdfced82e4fbb63ce215c91e98, type: 2}
+  - {fileID: 11400000, guid: 6c5ef9cdfced82e4fbb63ce215c91e98, type: 2}
+  - {fileID: 11400000, guid: 6c5ef9cdfced82e4fbb63ce215c91e98, type: 2}
